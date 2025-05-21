@@ -1,4 +1,7 @@
-# Enigma Development Studio
+<p align="center">
+  <img src="https://raw.githubusercontent.com/enigmadevstudio/enigmadevstudio/main/banner.png" alt="Enigma Development Studio Banner" />
+</p>
+
 
 🎯 _We love computers._ 💻❤️
 
