@@ -2,8 +2,8 @@
   <img src="https://raw.githubusercontent.com/enigmadevstudio/enigmadevstudio/main/banner.png" alt="Enigma Development Studio Banner" />
 </p>
 
-<p align="center>
-🎯We love computers 💻❤️
+<p align="center">
+<b>🎯 We love computers 💻❤️</b>
 </p>
   
 ---
