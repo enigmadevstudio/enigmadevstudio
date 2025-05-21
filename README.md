@@ -2,9 +2,10 @@
   <img src="https://raw.githubusercontent.com/enigmadevstudio/enigmadevstudio/main/banner.png" alt="Enigma Development Studio Banner" />
 </p>
 
-
-🎯 _We love computers._ 💻❤️
-
+<p align="center>
+🎯We love computers 💻❤️
+</p>
+  
 ---
 
 ## About Us
