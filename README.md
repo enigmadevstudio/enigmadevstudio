@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-<b>🎯 We love computers 💻❤️</b>
+<b>💻 We build what we love: software, games, and creative code.
+👾 From ideas to reality – Enigma makes it happen.</b>
 </p>
   
 ---
